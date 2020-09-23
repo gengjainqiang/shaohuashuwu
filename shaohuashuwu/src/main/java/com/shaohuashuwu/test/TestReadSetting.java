@@ -47,4 +47,8 @@ public class TestReadSetting {
     public void testgit(){
 
     }
+    @Test
+    public void testgit1(){
+
+    }
 }
