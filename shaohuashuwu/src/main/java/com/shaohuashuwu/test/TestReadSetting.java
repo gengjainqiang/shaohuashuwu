@@ -41,4 +41,10 @@ public class TestReadSetting {
         Boolean result  = readSettingInfoService.updateReadSetting(readSettingInfo);
         System.out.println("1111--：："+result);
     }
+
+
+    @Test
+    public void testgit(){
+
+    }
 }
